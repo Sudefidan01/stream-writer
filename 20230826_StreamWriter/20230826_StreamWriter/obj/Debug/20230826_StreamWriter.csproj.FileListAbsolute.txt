@@ -1,0 +1,8 @@
+C:\Users\pcc\source\repos\20230826_StreamWriter\20230826_StreamWriter\bin\Debug\20230826_StreamWriter.exe.config
+C:\Users\pcc\source\repos\20230826_StreamWriter\20230826_StreamWriter\bin\Debug\20230826_StreamWriter.exe
+C:\Users\pcc\source\repos\20230826_StreamWriter\20230826_StreamWriter\bin\Debug\20230826_StreamWriter.pdb
+C:\Users\pcc\source\repos\20230826_StreamWriter\20230826_StreamWriter\obj\Debug\20230826_StreamWriter.csproj.AssemblyReference.cache
+C:\Users\pcc\source\repos\20230826_StreamWriter\20230826_StreamWriter\obj\Debug\20230826_StreamWriter.csproj.SuggestedBindingRedirects.cache
+C:\Users\pcc\source\repos\20230826_StreamWriter\20230826_StreamWriter\obj\Debug\20230826_StreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\pcc\source\repos\20230826_StreamWriter\20230826_StreamWriter\obj\Debug\20230826_StreamWriter.exe
+C:\Users\pcc\source\repos\20230826_StreamWriter\20230826_StreamWriter\obj\Debug\20230826_StreamWriter.pdb
